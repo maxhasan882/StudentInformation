@@ -1,0 +1,10 @@
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.exe.config
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.exe
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\bin\Debug\StudentEntryUI.pdb
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.csprojResolveAssemblyReference.cache
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.StudentRegisterUI.resources
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.Properties.Resources.resources
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.csproj.GenerateResource.Cache
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.exe
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\obj\Debug\StudentEntryUI.pdb
+C:\Users\rhmit\documents\visual studio 2017\Projects\StudentEntryUI\StudentEntryUI\bin\Debug\Bunifu_UI_v1.52.dll
